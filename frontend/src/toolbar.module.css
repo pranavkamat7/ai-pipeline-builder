@@ -1,0 +1,11 @@
+.toolbar {
+  background-color: var(--bg-panel);
+  padding: 12px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.nodes {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,15 @@
+:root {
+  --bg-main: #0f172a;
+  --bg-panel: #111827;
+  --bg-node: #1f2933;
+  --border-color: #334155;
+
+  --text-primary: #e5e7eb;
+  --text-secondary: #9ca3af;
+
+  --accent: #6366f1;
+  --accent-hover: #4f46e5;
+
+  --radius: 10px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
